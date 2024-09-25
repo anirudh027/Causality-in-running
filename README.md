@@ -18,8 +18,6 @@ To get started with this project, clone the repository and install the necessary
 
 ```bash
 git clone https://github.com/yourusername/Causality-in-Running.git
-cd Causality-in-Running
-pip install -r requirements.txt
 ```
 
 ## Usage
